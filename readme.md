@@ -13,4 +13,3 @@ Basic Nodejs Project
 - Using bcrypt lib for crypting password and saving
 - for login, setup and check password using bcrypt compare password and returing  jwt token
 - now we have jwt token, we gonna use it to encrypt other APIs
-- 
